@@ -16,5 +16,5 @@ nodemon
 
 
 Previews:
-![image](https://user-images.githubusercontent.com/64136587/166179664-1b826fe5-5d2d-4f8b-8489-f64a43959a36.png)
-![image](https://user-images.githubusercontent.com/64136587/166179723-e1c8cdbc-82e5-49ff-a2ae-3547c920ebac.png)
+![image](https://user-images.githubusercontent.com/64136587/166179861-7a0ca010-e10a-4521-8634-2561ebda8b3d.png)
+![image](https://user-images.githubusercontent.com/64136587/166179914-7654b653-c7fa-42d8-8d4c-49c1846f6e6c.png)
