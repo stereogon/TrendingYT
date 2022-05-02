@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="../css/styles.css" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap"
+            rel="stylesheet"
+        />
+        <title><%=data.title %></title>
+    </head>
+    <body>
+        <%- include('./partials/navbar.ejs') %>
+        <div class="container2">
+            <iframe
+                width="420"
+                height="315"
+                src="https://www.youtube.com/embed/<%=data.videoId%>?autoplay=1&cc_load_policy=1&mute=1"
+            >
+            </iframe>
+            <h1 class="videopage-title"><%=data.title%></h1>
+            <p><a href="">By <%=data.author%></a></p>
+
+            <div class="description-box">
+                <p class="desc">
+                    <%=data.description%>
+                </p>
+                <p class="viewbox"><%=data.viewCount%> <b>Views</b></p>
+            </div>
+        </div>
+        <%- include('./partials/footer.ejs') %>
+    </body>
+</html>
