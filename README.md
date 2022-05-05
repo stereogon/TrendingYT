@@ -16,5 +16,8 @@ nodemon
 
 
 Previews:
-![image](https://user-images.githubusercontent.com/64136587/166179861-7a0ca010-e10a-4521-8634-2561ebda8b3d.png)
-![image](https://user-images.githubusercontent.com/64136587/166179914-7654b653-c7fa-42d8-8d4c-49c1846f6e6c.png)
+![image](https://user-images.githubusercontent.com/64136587/167039862-d44d1847-1959-49b9-8bb6-83fe74a80191.png)
+![image](https://user-images.githubusercontent.com/64136587/167039949-1d2d2314-9ab8-4a95-98e9-5454f124f411.png)
+![image](https://user-images.githubusercontent.com/64136587/167040047-fbc0d386-f50c-4621-9eb6-c5442b23f7ed.png)
+![image](https://user-images.githubusercontent.com/64136587/167040190-31d00c9c-c202-43fc-a785-03b19f21b76e.png)
+![image](https://user-images.githubusercontent.com/64136587/167040222-67c283fb-a59b-4f4b-b394-6db9e01cdd8a.png)
